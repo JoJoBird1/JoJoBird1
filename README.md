@@ -1,6 +1,6 @@
 # About me
 
-Name: Jordan Wilson
+✨ Jordan Wilson ✨
 
 Somethings about me: 
 - 🔭 I’m currently working on my ... BSCS.
