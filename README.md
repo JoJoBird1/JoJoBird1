@@ -1,8 +1,8 @@
 # About me
 
-✨ Jordan Wilson ✨
+# ✨ Jordan Wilson ✨
 
-Somethings about me: 
+### What I'm working on:
 - 🔭 I’m currently working on my ... BSCS.
 - 🌱 I’m currently learning ... Java, and databases.
 - 🤔 I’m looking for help with ... Java code.
