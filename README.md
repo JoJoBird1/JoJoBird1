@@ -8,7 +8,4 @@ Welcome to my GitHub profile! I'm pursing my Bachelor degree in Computer Science
 ## Thanks for visiting!
 I'd love to get connected.
 ### Here are my forms of contact
-[[params.social]]
-icon = "linkedin"
-icon_pack = "fa"
-link = "//https://www.linkedin.com/in/jordan-wilson-21a38a270/"
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn] (https://www.linkedin.com/in/jordan-wilson-21a38a270/)
