@@ -9,3 +9,4 @@ Welcome to my GitHub profile! I'm pursing my Bachelor degree in Computer Science
 I'd love to get connected.
 ### Here are my forms of contact
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn] (https://www.linkedin.com/in/jordan-wilson-21a38a270/)
+&nbsp;
