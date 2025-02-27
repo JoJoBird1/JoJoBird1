@@ -1,10 +1,5 @@
 # About me
 
-# ✨ Jordan Wilson ✨
-
-### What I'm working on:
-- 🔭 I’m currently working on my ... BSCS.
-- 🌱 I’m currently learning ... Java, and databases.
-- 🤔 I’m looking for help with ... Java code.
-- ✍ Two projects that I'm working on ... Java projects for class, and blender projects for 3D printing.
+# Hi there, I'm Jordan :wave:
+Welcome to my GitHub profile! I'm pursing my Bachelor degree in Computer Science, along with getting a Certificate in Cybersecurity. 
 
