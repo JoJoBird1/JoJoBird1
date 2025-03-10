@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm pursuing a Bachelor's degree in Computer Scien
 * C++
 * Python
 
-####Databases:
+#### Databases:
 * Oracle/SQL
 
 ## Projects
@@ -26,6 +26,3 @@ Welcome to my GitHub profile! I'm pursuing a Bachelor's degree in Computer Scien
 ## Thanks for visiting!
 I'd love to get connected.
 ### My Socials
-* ![GitHub followers](https://img.shields.io/github/followers/https%3A%2F%2Fgithub.com%2FJoJoBird1)
-
-
